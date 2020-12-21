@@ -2,7 +2,7 @@ My name is Ali mohammad, 26yrs old, Interior designer, and project engineer
 object|link
 ------|------
 read1|https://alialjeatawy.github.io/reading-notes/read1
-readme|https://alialjeatawy.github.io/reading-notes/readme
+
 
 
 
