@@ -23,8 +23,8 @@ You can prioritize levels of information from key points down to non-essential o
 ### *A website about fashion trends will need to change a lot more frequently than one that is promoting a service that people do not buy regularly (such as domestic plumbing or double glazing).*
 ### *Once a site has been built, it can take a lot of time and resources to update it frequently. Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.*
 
-#### **The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.
-To help you decide what information should go on each page, you can use a technique called card sorting.**
+#### **The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.**
+**To help you decide what information should go on each page, you can use a technique called card sorting.**
 
 
 
@@ -40,20 +40,18 @@ The point of creating these new elements is so that webpage authors can use them
 ### *Headers & Footers
 **The main header or footer that appears at the top or bottom of every page on the site.**
 
-### *Navigation <nav>
-**The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.**
+### *Navigation 
+**The element is used to contain the major navigational blocks on the site such as the primary site navigation.**
 
-### *Articles <article>
-**The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.**
+### *Articles 
+**The element acts as a container for any section of a page that could stand alone and potentially be syndicated.**
 
-### *Article <aside>
-**The <aside> element has two purposes, depending on whether it is inside an <article> element or not.**
+### *Article 
+**The element has two purposes, depending on whether it is inside an element or not.**
 
-### *Sections <section>
-**The <section> element groups related content together, and typically each section would have its own heading**
+### *Sections 
+**The element groups related content together, and typically each section would have its own heading**
 
-### *Heading Groups <hgroup>
-**The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.**
 
 
 
