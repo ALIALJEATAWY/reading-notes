@@ -1,4 +1,8 @@
 # ***Growth mindset***
+object|link
+------|------
+read1|[link](https://alialjeatawy.github.io/reading-notes/read1)
+read4|[link](https://alialjeatawy.github.io/reading-notes/read4)
 
 **growth  mindset is the ability to develop and flourish through learning and ambition in order to promote growth mindset new strategies could be used while teaching, having a growth mindset creates an exciting and challenging environment for students.**
 # *How do I keep myself in the growth mindset*
