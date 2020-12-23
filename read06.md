@@ -1,13 +1,17 @@
 ## ***JavaScript***
 
-*Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.*
+*Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages*
+
+
 *Html: This is where the content of the page lives. The HTML gives the page structure and adds semantics.
-*CSS: The CSS enhances the HTML page with rules that state how the HTML content is presented (backgrounds, borders, box dimensions, colors, fonts, etc.).
-*JavaScript: This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files.
+
+*CSS: The CSS enhances the HTML page with rules that state how the HTML content is presented (backgrounds, borders, box dimensions, colors, fonts, etc.)*
+
+*JavaScript: This is where we can change how the page behaves, adding interactivity. We will aim to keep as much of our JavaScript as possible in separate files*
 
 ### ***CREATING A BASIC JAVASCRIPT***
 
-*JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day.*
+*JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day*
 
 *LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE
 When you want to use JavaScript with a web page, you use the HTML*
