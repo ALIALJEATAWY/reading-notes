@@ -35,7 +35,7 @@
 - *If your variable name is made up of more than one word, use a capital letter for the first letter ofevery word after the first word*
 
 ### ***ARRAYS*** ###
-#### ***An array is a special type of variable. It doesn'tjust store one value; it stores a list of values. *** ####
+#### ***An array is a special type of variable. It doesn'tjust store one value; it stores a list of values.*** ####
 
 *Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).*
 
