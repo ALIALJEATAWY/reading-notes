@@ -10,7 +10,7 @@
 
 *logical and (&&): This operator tests more than one condition.*
 
-*Logical or (||):This operator tests at least one condition.*
+*Logical or ( | | ):This operator tests at least one condition.*
 
 *Logial not (!):This operator takes a single bollean value and inverts it.*
 
